@@ -1,2 +1,2 @@
 # ECommercePlatform
-Enoca Java Challange
+This project was developed as part of Enoca's backend development challenge.
